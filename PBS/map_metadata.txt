@@ -476,3 +476,9 @@ Name = Route 2
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[093]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true

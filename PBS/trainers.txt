@@ -120,4 +120,19 @@ Pokemon = BLASTOISE,63
 [YOUNGSTER,Joey]
 LoseText = Aw I lost!
 Pokemon = RATTATA,4
+#-------------------------------
+[TWINS,Heather]
+LoseText = I can't believe we lost!
+Pokemon = PLUSLE,8
 
+#-------------------------------
+[TWINS,Heather,1]
+LoseText = I can't believe we lost!
+Pokemon = MINUN,8
+#-------------------------------
+[BUGCATCHER,Jason]
+LoseText = Im gonna blow up!!!!!!!! *Relax Jason* Just wait till my bugs evolve!
+Pokemon = CATERPIE,3
+Pokemon = CATERPIE,4
+Pokemon = WEEDLE,3
+Pokemon = WEEDLE,4
