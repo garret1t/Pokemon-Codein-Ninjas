@@ -38,7 +38,9 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# Route 2 (92) - Indian Trail (22)
+92,South,5,22,North,0
 # Route 1 (32) - Indian Trail (22)
 32,North,0,22,South,2
-# Monroe (76) - Indian Trail (22)
-76,South,0,22,North,0
+# Monroe (76) - Route 2 (92)
+76,South,0,92,North,0

@@ -3,8 +3,8 @@
 [0]
 StartMoney = 3000
 StartItemStorage = POTION
-Home = 3,7,5,8
-StorageCreator = Bill
+Home = 43,22,5,6
+StorageCreator = Ben
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Battle trainer
 WildVictoryBGM = Battle victory wild
